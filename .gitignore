@@ -1,0 +1,14 @@
+# Maven Build Files
+target/
+test-output/
+
+# Eclipse Files
+.classpath
+.project
+.settings/
+
+# Mac Files
+.DS_Store
+
+# Log Files
+*.log
